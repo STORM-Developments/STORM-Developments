@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/911496436250738718/960504568536522832/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ahmed raza</h1>
 <h3 align="center">A Discord Bots and Fivem Devolper.</h3>
-[![MasterHead](https://cdn.discordapp.com/attachments/911496436250738718/960504568536522832/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storm&label=Profile%20views&color=0e75b6&style=flat" alt="storm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stormy" target="blank"><img src="https://img.shields.io/twitter/follow/stormy?logo=twitter&style=for-the-badge" alt="stormy" /></a> </p>
