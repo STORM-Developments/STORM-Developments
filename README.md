@@ -1,9 +1,7 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif")
-
+[![MasterHead](https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif)](https://discord.gg/z35dqGz8RC)
 <h1 align="center">Hi 👋, I'm Ahmed raza</h1>
 <h3 align="center">A Discord Bots and Fivem Devolper.</h3>
 (img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif")
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storm&label=Profile%20views&color=0e75b6&style=flat" alt="storm" /> </p>
 
