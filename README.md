@@ -8,7 +8,7 @@
 
 - 🤖 I’m currently working on **Xeta A advanced music bot**
 
-- 🌱 I’m currently learning **Node.js , Python ,Lua adn html**
+- 🌱 I’m currently learning **Node.js , Python ,Lua and html**
 
 - 🤝 I’m looking for help with **Node.js bot devolpment**
 
