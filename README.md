@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/911496436250738718/960504568536522832/giphy.gif)
+![MasterHead](https://cdn.discordapp.com/attachments/911496436250738718/960504568536522832/giphy.gif)
 <h1 align="center">Hi 👋, I'm STORM</h1>
 <h3 align="center">A Discord Bots and Fivem Devolper.</h3>
 
