@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Node.js and lua**
 
-- 📫 How to reach me **psps00267@gmail.com**
+- 📫 How to reach me **support@storm-developments.com**
 
 - 📄 Know about my experiences [https://discord.gg/z35dqGz8RC](https://discord.gg/z35dqGz8RC)
 
